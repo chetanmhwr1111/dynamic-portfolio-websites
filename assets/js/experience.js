@@ -60,38 +60,38 @@ document.addEventListener("DOMContentLoaded", showCards2);
 
 // education Cards
 
-const education = document.querySelector(".education");
-const educationcards = [
-  {
-    title: "M. Tech.",
-    cardImage: "assets/images/experience-page/IIT Bombay.jpg",
-    description:
-      "Specialization in Aerospace Structures",
-  },
-  {
-    title: "B. Tech.",
-    cardImage: "assets/images/experience-page/IIIT_Jabalpur.jpg",
-    description:
-      "Bachelor's in Mechanical Engineering from IIIT Jabalpur(MHRD)",
-  },
-];
+// const education = document.querySelector(".education");
+// const educationcards = [
+//   {
+//     title: "M. Tech.",
+//     cardImage: "assets/images/experience-page/IIT Bombay.jpg",
+//     description:
+//       "Specialization in Aerospace Structures",
+//   },
+//   {
+//     title: "B. Tech.",
+//     cardImage: "assets/images/experience-page/IIIT_Jabalpur.jpg",
+//     description:
+//       "Bachelor's in Mechanical Engineering from IIIT Jabalpur(MHRD)",
+//   },
+// ];
 
-const showCards = () => {
-  let output = "";
-  educationcards.forEach(
-    ({ title, cardImage, description }) =>
-      (output += `        
-      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
+// const showCards = () => {
+//   let output = "";
+//   educationcards.forEach(
+//     ({ title, cardImage, description }) =>
+//       (output += `        
+//       <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
       
-      <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
-      <div class="content">
-          <h2 class="volunteerTitle">${title}</h2><br>
-          <p class="copy">${description}</p></div>
+//       <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
+//       <div class="content">
+//           <h2 class="volunteerTitle">${title}</h2><br>
+//           <p class="copy">${description}</p></div>
       
-      </div>
-      `)
-  );
-  education.innerHTML = output;
-};
+//       </div>
+//       `)
+//   );
+//   education.innerHTML = output;
+// };
 document.addEventListener("DOMContentLoaded", showCards);
 
