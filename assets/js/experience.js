@@ -17,8 +17,7 @@ const exp = [
     place: "Indian Space Research Organisation",
     time: "(Dec, 2021 - Oct, 2023)",
     desp: "<li>Involved in the Quality control of Design to Realisation of Fluid Control Components in all Earth Storable Stages of Launch vehicles of India.</li>","<li>Actively contributed for Chandrayaan 3 mission & Gaganyaan Unmanned mission<li>",
-  },
-  
+  },  
   {
     title: "Research Intern",
     cardImage: "assets/images/experience-page/Res_intern.jpg",
@@ -93,5 +92,5 @@ document.addEventListener("DOMContentLoaded", showCards2);
 //   );
 //   education.innerHTML = output;
 // };
-document.addEventListener("DOMContentLoaded", showCards);
+// document.addEventListener("DOMContentLoaded", showCards);
 
