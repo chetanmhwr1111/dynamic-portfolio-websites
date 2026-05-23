@@ -7,16 +7,15 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Material model insights",
-    cardImage: "assets/images/project-page/elastic_material_model.png",
-    cardImage: "assets/images/project-page/elastoplastic_material_model.png",
+    cardImage: "assets/images/project-page/Material_setup.png",
     description: " Stress-Strain analysis of a unit cell with Elastic & Elastoplastic material model in Ansys Mechanical simulation ",
     tagimg: "",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/chetanmhwr1111/Material_model_insights",
   },
   {
     title: "2 DOF Spring Mass system validation",
-    cardImage: "assets/images/project-page/2DOF_spring_mass_sim_res.png",
+    cardImage: "assets/images/project-page/2_DOF_png",
     cardImage: "assets/images/project-page/2DOF_spring_mass_anal_res.png",
     description: "2 DOF spring mass system simulation correlation with Numerical calculation using Python command",
     tagimg: "",
