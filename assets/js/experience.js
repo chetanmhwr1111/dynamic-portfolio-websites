@@ -32,7 +32,7 @@ const exp = [
     title: "Research Intern",
     cardImage: "assets/images/experience-page/Res_intern.png",
     place: "ISAE SUPAERO, Tolouse, France",
-    time: "(Dec, 19 - Jan, 20)",
+    time: "(May, 2020 - July, 2021)",
     desp: "<li>First acquaintance of Numerical modelling of Geometrically Non-linear and Elastically linear beams in Woven composites</li><li>Reviewed existing, in-house, Numerical model of Straight and Wavy (Taffeta) composite woven fabrics in MATLAB</li><li>Implemented and documented various numerical tests of validation</li>",
   },
 ];
