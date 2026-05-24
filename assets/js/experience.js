@@ -12,6 +12,13 @@ const exp = [
     desp: "<li>Physics driven simulation enthusiast with the apt for virtualization of real engineering problems</li><li>Expertise in Mechanical fundamentals, FEA simulations, analytical validation, and result interpretation</li><li>Training & mentorship in Ansys Mechanical covering Non-linear, Thermal, Multiphysics, Composite analysis & Automation etc</li>",
   },
   {
+    title: "Instructor",
+    cardImage: "assets/images/experience-page/IGC_logo.png",
+    place: "Freelancer",
+    time: "(Nov, 2025 to Present)",
+    desp: "<li>Virtually teaching engineering students for GATE Mechanical Engineering courses</li><li>Expertise in Mechanical Engg fundamentals- SOM, Machine Design, Engineering Mechanics, Vibrations</li>
+  },
+  {
     title: "Quality Engineer, Scientist C",
     cardImage: "assets/images/experience-page/ISRO_logo.png",
     place: "Indian Space Research Organisation",
@@ -56,41 +63,3 @@ const showCards2 = () => {
   experiencecards.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards2);
-
-// education Cards
-
-// const education = document.querySelector(".education");
-// const educationcards = [
-//   {
-//     title: "M. Tech.",
-//     cardImage: "assets/images/experience-page/IIT Bombay.jpg",
-//     description:
-//       "Specialization in Aerospace Structures",
-//   },
-//   {
-//     title: "B. Tech.",
-//     cardImage: "assets/images/experience-page/IIIT_Jabalpur.jpg",
-//     description:
-//       "Bachelor's in Mechanical Engineering from IIIT Jabalpur(MHRD)",
-//   },
-// ];
-
-// const showCards = () => {
-//   let output = "";
-//   educationcards.forEach(
-//     ({ title, cardImage, description }) =>
-//       (output += `        
-//       <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
-      
-//       <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
-//       <div class="content">
-//           <h2 class="volunteerTitle">${title}</h2><br>
-//           <p class="copy">${description}</p></div>
-      
-//       </div>
-//       `)
-//   );
-//   education.innerHTML = output;
-// };
-// document.addEventListener("DOMContentLoaded", showCards);
-
