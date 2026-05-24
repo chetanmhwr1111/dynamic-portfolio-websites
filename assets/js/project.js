@@ -15,8 +15,7 @@ const projects = [
   },
   {
     title: "2 DOF Spring Mass system validation",
-    cardImage: "assets/images/project-page/2_DOF_png",
-    cardImage: "assets/images/project-page/2DOF_spring_mass_anal_res.png",
+    cardImage: "assets/images/project-page/2_DOF_analysis.png",
     description: "2 DOF spring mass system simulation correlation with Numerical calculation using Python command",
     tagimg: "",
     Previewlink: "https://drive.google.com/open?id=1bT07SjWTiIpPtxXtPmtpRJlNok5GxSzH&usp=drive_fs",
