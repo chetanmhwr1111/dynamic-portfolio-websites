@@ -18,8 +18,16 @@ const projects = [
     cardImage: "assets/images/project-page/2_DOF_analysis.png",
     description: "2 DOF spring mass system simulation correlation with Numerical calculation using Python command",
     tagimg: "Complete Details in link",
-    Previewlink: "https://drive.google.com/open?id=1bT07SjWTiIpPtxXtPmtpRJlNok5GxSzH&usp=drive_fs",
+    Previewlink: "https://github.com/chetanmhwr1111/2_DOF_spring_mass_system_validation/blob/main/file_2.wmv",
     Githublink: "https://github.com/chetanmhwr1111/2_DOF_spring_mass_system_validation",
+  },
+  {
+    title: "IGC Vibration Class",
+    cardImage: "assets/images/project-page/IGC_teaching.png",
+    description: "",
+    tagimg: "Complete Details in link",
+    Previewlink: "",
+    Githublink: "https://github.com/chetanmhwr1111/Teaching-Mentoring-Career-guidance-Interview-preperation/blob/main/IGC_class_small.mp4",
   },
   ];
 
