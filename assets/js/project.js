@@ -26,7 +26,7 @@ const projects = [
     cardImage: "assets/images/project-page/IGC_teaching.png",
     description: "",
     tagimg: "Complete Details in link",
-    Previewlink: "",
+    Previewlink: "https://drive.google.com/open?id=1pWcBC5rSl4RFpRuJreqVkhaSxF-TnH-B&usp=drive_fs",
     Githublink: "https://github.com/chetanmhwr1111/Teaching-Mentoring-Career-guidance-Interview-preperation/blob/main/IGC_class_small.mp4",
   },
   ];
