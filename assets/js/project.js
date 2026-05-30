@@ -34,6 +34,7 @@ const projects = [
     description: "",
     tagimg: "Complete Details in link",
     Previewlink: "https://drive.google.com/open?id=1WWjhAwE_9gqrNluDeMJ_fVmwKUZE5r6C&usp=drive_fs",
+    Githublink: "https://github.com/chetanmhwr1111/Ansys-Mechanical-Object-generator-demo"
   },
   ];
 
