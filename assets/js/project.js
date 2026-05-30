@@ -10,7 +10,6 @@ const projects = [
     cardImage: "assets/images/project-page/Material_setup.png",
     description: " Stress-Strain analysis of a unit cell with Elastic & Elastoplastic material model in Ansys Mechanical simulation ",
     tagimg: "Complete Details in link",
-    Previewlink: "",
     Githublink: "https://github.com/chetanmhwr1111/Material_model_insights",
   },
   {
@@ -27,7 +26,14 @@ const projects = [
     description: "",
     tagimg: "Complete Details in link",
     Previewlink: "https://drive.google.com/open?id=1pWcBC5rSl4RFpRuJreqVkhaSxF-TnH-B&usp=drive_fs",
-    Githublink: "https://github.com/chetanmhwr1111/Teaching-Mentoring-Career-guidance-Interview-preperation/blob/main/IGC_class_small.mp4",
+    Githublink: "https://github.com/chetanmhwr1111/Teaching-Mentoring-Career-guidance-Interview-preperation/blob/main/Forced%20vibration%201%20DOF.pdf",
+  },
+  {
+    title: "Automation : Object Generator demo",
+    cardImage: "assets/images/project-page/object_generator.png",
+    description: "",
+    tagimg: "Complete Details in link",
+    Previewlink: "https://drive.google.com/open?id=1WWjhAwE_9gqrNluDeMJ_fVmwKUZE5r6C&usp=drive_fs",
   },
   ];
 
