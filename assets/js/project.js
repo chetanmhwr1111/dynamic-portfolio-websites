@@ -10,6 +10,7 @@ const projects = [
     cardImage: "assets/images/project-page/Material_setup.png",
     description: " Stress-Strain analysis of a unit cell with Elastic & Elastoplastic material model in Ansys Mechanical simulation ",
     tagimg: "Complete Details in link",
+    Previewlink:"https://drive.google.com/open?id=1eDvTzl5RiybDJnJ-SkcC1CpSJjAVzbcU&usp=drive_fs",
     Githublink: "https://github.com/chetanmhwr1111/Material_model_insights",
   },
   {
@@ -17,7 +18,7 @@ const projects = [
     cardImage: "assets/images/project-page/2_DOF_analysis.png",
     description: "2 DOF spring mass system simulation correlation with Numerical calculation using Python command",
     tagimg: "Complete Details in link",
-    Previewlink: "https://github.com/chetanmhwr1111/2_DOF_spring_mass_system_validation/blob/main/file_2.wmv",
+    Previewlink: "https://drive.google.com/open?id=1bT07SjWTiIpPtxXtPmtpRJlNok5GxSzH&usp=drive_fs",
     Githublink: "https://github.com/chetanmhwr1111/2_DOF_spring_mass_system_validation",
   },
   {
