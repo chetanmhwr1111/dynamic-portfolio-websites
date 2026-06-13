@@ -39,7 +39,7 @@ const projects = [
   },
   {
     title: "Busbar analysis-Electro Thermo Structural coupled problem",
-    cardImage: "assets/images/project-page/Temp dist.gif",
+    cardImage: "assets/images/project-page/TMS_1.png",
     description: "",
     tagimg: "Complete Details in link",
     Previewlink: "https://drive.google.com/open?id=1B6zbGCXKKe1NrDrbYyP9I0OvsnE-66-S&usp=drive_fs",
