@@ -45,6 +45,14 @@ const projects = [
     Previewlink: "https://drive.google.com/open?id=1B6zbGCXKKe1NrDrbYyP9I0OvsnE-66-S&usp=drive_fs",
     Githublink: "https://github.com/chetanmhwr1111/Electro-Thermo-Structural-analysis"
   },
+  {
+    title: "Customizable local Database Management dashboard",
+    cardImage: "assets/images/project-page/local_database_management_dashboard.png",
+    description: "",
+    tagimg: "Complete Details in link",
+    Previewlink: "" ,
+    Githublink: ""
+  },
   ];
 
 // function for rendering project cards data
