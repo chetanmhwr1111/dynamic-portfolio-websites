@@ -37,6 +37,14 @@ const projects = [
     Previewlink: "https://drive.google.com/open?id=1WWjhAwE_9gqrNluDeMJ_fVmwKUZE5r6C&usp=drive_fs",
     Githublink: "https://github.com/chetanmhwr1111/Ansys-Mechanical-Object-generator-demo"
   },
+  {
+    title: "Busbar analysis-Electro Thermo Structural coupled problem",
+    cardImage: "assets/images/project-page/Temp dist.gif",
+    description: "",
+    tagimg: "Complete Details in link",
+    Previewlink: "https://drive.google.com/open?id=1B6zbGCXKKe1NrDrbYyP9I0OvsnE-66-S&usp=drive_fs",
+    Githublink: "https://github.com/chetanmhwr1111/Electro-Thermo-Structural-analysis"
+  },
   ];
 
 // function for rendering project cards data
