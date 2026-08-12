@@ -14,7 +14,7 @@ const exp = [
 
   {
     title: "Instructor",
-    cardImage: "assets/images/experience-page/IGC_logo.png",
+    // cardImage: "assets/images/experience-page/IGC_logo.png",
     place: "Freelancer",
     time: "(Nov, 2025 to Present)",
     desp: "<li>Virtually teaching engineering students for GATE Mechanical Engineering courses</li><li>Expertise in Mechanical Engg fundamentals- SOM, Machine Design, Engineering Mechanics, Vibrations</li>",
