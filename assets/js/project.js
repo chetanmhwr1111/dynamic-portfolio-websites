@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "GATE Mechanical Class",
-    // cardImage: "assets/images/project-page/IGC_teaching.png",
+    cardImage: "assets/images/project-page/teaching.png",
     description: "",
     tagimg: "Complete Details in link",
     // Previewlink: "https://drive.google.com/open?id=1pWcBC5rSl4RFpRuJreqVkhaSxF-TnH-B&usp=drive_fs",
