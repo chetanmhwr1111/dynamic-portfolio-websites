@@ -22,7 +22,7 @@ const projects = [
     Githublink: "https://github.com/chetanmhwr1111/2_DOF_spring_mass_system_validation",
   },
   {
-    title: "IGC Vibration Class",
+    title: "Mechanical Gate Classes",
     cardImage: "assets/images/project-page/teaching.png",
     description: "",
     tagimg: "Complete Details in link",
