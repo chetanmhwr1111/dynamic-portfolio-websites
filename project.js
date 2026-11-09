@@ -10,7 +10,6 @@ const projects = [
     cardImage: "assets/images/project-page/Material_setup.png",
     description: " Stress-Strain analysis of a unit cell with Elastic & Elastoplastic material model in Ansys Mechanical simulation ",
     tagimg: "Complete Details in link",
-    Previewlink:"https://drive.google.com/open?id=1eDvTzl5RiybDJnJ-SkcC1CpSJjAVzbcU&usp=drive_fs",
     Githublink: "https://github.com/chetanmhwr1111/Material_model_insights",
   },
   {
@@ -18,7 +17,6 @@ const projects = [
     cardImage: "assets/images/project-page/2_DOF_analysis.png",
     description: "2 DOF spring mass system simulation correlation with Numerical calculation using Python command",
     tagimg: "Complete Details in link",
-    Previewlink: "https://drive.google.com/open?id=1bT07SjWTiIpPtxXtPmtpRJlNok5GxSzH&usp=drive_fs",
     Githublink: "https://github.com/chetanmhwr1111/2_DOF_spring_mass_system_validation",
   },
   {
@@ -26,15 +24,13 @@ const projects = [
     cardImage: "assets/images/project-page/teaching.png",
     description: "",
     tagimg: "Complete Details in link",
-    // Previewlink: "https://drive.google.com/open?id=1pWcBC5rSl4RFpRuJreqVkhaSxF-TnH-B&usp=drive_fs",
     Githublink: "https://github.com/chetanmhwr1111/Teaching-Mentoring-Career-guidance-Interview-preperation/blob/main",
   },
   {
-    title: "Automation : Object Generator demo",
+    title: "Automation : Ansys Mechanical Object Generator demo",
     cardImage: "assets/images/project-page/object_generator.png",
     description: "",
     tagimg: "Complete Details in link",
-    Previewlink: "https://drive.google.com/open?id=1WWjhAwE_9gqrNluDeMJ_fVmwKUZE5r6C&usp=drive_fs",
     Githublink: "https://github.com/chetanmhwr1111/Ansys-Mechanical-Object-generator-demo"
   },
   ];
