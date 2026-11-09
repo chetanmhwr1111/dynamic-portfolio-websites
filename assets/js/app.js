@@ -137,11 +137,11 @@ let footer = $(`
             <h6>Contact Info</h6>
             <div class="contact-item">
               <i class="fas fa-envelope"></i>
-              <a href="mailto:youremail@example.com">youremail@example.com</a>
+              <a href="mailto:chetanpassn@gmail.com">chetanpassn@gmail.com</a>
             </div>
             <div class="contact-item">
               <i class="fas fa-phone-alt"></i>
-              <a href="tel:+910000000000">+91 00000 00000</a>
+              <a href="tel:+91 7440396288">+91 7440396288</a>
             </div>
           </div>
           <style>svg#freepik_stories-smiley-face:not(.animated) .animable {opacity: 0;}svg#freepik_stories-smiley-face.animated #freepik--background-complete--inject-31 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 0.2s;opacity: 0}svg#freepik_stories-smiley-face.animated #freepik--Shadow--inject-31 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 0.2s;opacity: 0}svg#freepik_stories-smiley-face.animated #freepik--Character--inject-31 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown,1.5s Infinite  linear floating;animation-delay: 0.2s,1.2s;opacity: 0}            @keyframes fadeIn {                0% {                    opacity: 0;                }                100% {                    opacity: 1;                }            }                    @keyframes slideDown {                0% {                    opacity: 0;                    transform: translateY(-30px);                }                100% {                    opacity: 1;                    transform: translateY(0);                }            }                    @keyframes floating {                0% {                    opacity: 1;                    transform: translateY(0px);                }                50% {                    transform: translateY(-10px);                }                100% {                    opacity: 1;                    transform: translateY(0px);                }            }        </style>
