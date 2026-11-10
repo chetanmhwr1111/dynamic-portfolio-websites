@@ -24,21 +24,28 @@ const projects = [
     cardImage: "assets/images/project-page/teaching.png",
     description: "",
     tagimg: "Complete Details in link",
-    Githublink: "https://github.com/chetanmhwr1111/Teaching-Mentoring-Career-guidance-Interview-preperation/blob/main/Forced%20vibration%201%20DOF.pdf",
+    Githublink: "https://github.com/chetanmhwr1111/Teaching-Mentoring-Career-guidance-Interview-preperation",
   },
   {
-    title: "Automation : Object Generator demo",
+    title: "GATE Mechanical MCQ Quiz app",
+    cardImage: "assets/images/project-page/MechQ_app.png",
+    description: "",
+    tagimg: "Complete Details in link",
+    Githublink: "https://github.com/chetanmhwr1111/MechQ_App",
+  },
+  {
+    title: "Automation : Ansys Mechanical Object-Generator",
     cardImage: "assets/images/project-page/object_generator.png",
     description: "",
     tagimg: "Complete Details in link",
     Githublink: "https://github.com/chetanmhwr1111/Ansys-Mechanical-Object-generator-demo"
   },
   {
-    title: "Busbar analysis-Electro Thermo Structural coupled problem",
-    cardImage: "assets/images/project-page/TMS_1.png",
+    title: "Configuring Bank FD & loan rate MCPs on Antigravity IDE",
+    cardImage: "assets/images/project-page/mcp_fdrates.png",
     description: "",
     tagimg: "Complete Details in link",
-    Githublink: "https://github.com/chetanmhwr1111/Electro-Thermo-Structural-analysis"
+    Githublink: "https://github.com/chetanmhwr1111/Configuring-Bank-FD-loan-rate-MCPs-on-Antigravity-IDE"
   },
   {
     title: "Customizable local Database Management dashboard",
@@ -46,6 +53,13 @@ const projects = [
     description: "",
     tagimg: "Complete Details in link",
     Githublink: ""
+  },
+  {
+    title: "Busbar analysis-Electro Thermo Structural coupled problem",
+    cardImage: "assets/images/project-page/TMS_1.png",
+    description: "",
+    tagimg: "Complete Details in link",
+    Githublink: "https://github.com/chetanmhwr1111/Electro-Thermo-Structural-analysis"
   },
   ];
 
